@@ -41,7 +41,8 @@ Ensure Git is installed on your system:
    git push origin <your-branch-name>
    ```
 5. **Create a Pull Request**: Submit a pull request from your forked repository to the main repository for review.
-6. **File Naming**: Name your main script as `<your-student-id>_fraud_detection.py`.
+6. **File Naming**: Name your main script as `<ex_number>.py`.
+7. **Create a New Folder**: Remeber put your each file into `<your-student-id>_<ex_number>`.
 
 **Important**:
 - Do not modify the `TEST_SIZE` (set to `0.3`) or `RANDOM_SEED` (set to `42`) in the code.
